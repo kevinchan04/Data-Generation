@@ -4,7 +4,7 @@
 
 ### To genrate json file
 
-Open the file `generate_json.ipynb` in your jupyter-notebook. Befoer running the code, you have to change the default location which stores your dataset in code 
+Open the file `CAD/generate_json-CAD60.ipynb` in your jupyter-notebook. Befoer running the code, you have to change the default location which stores your dataset in code 
 **line 2**.
 ```
 data_dicts = r"./"
